@@ -1,6 +1,6 @@
 package kodlamaio.northwind.core.utilities.results;
 
-public class ErrorResult extends Result{
+public class ErrorResult extends Result{//Hatalı olması durumunda
 	
 	public ErrorResult() {
 		super(false);
